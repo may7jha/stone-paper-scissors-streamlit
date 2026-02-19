@@ -23,5 +23,3 @@ An interactive **Stone–Paper–Scissors game** built using **Python and Stream
 
 ---
 
-## 📂 Project Structure
-
