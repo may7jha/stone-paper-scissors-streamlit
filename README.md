@@ -23,3 +23,18 @@ An interactive **Stone–Paper–Scissors game** built using **Python and Stream
 
 ---
 
+
+---
+
+## ▶️ How to Run Locally
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/stone-paper-scissors-streamlit.git
+cd stone-paper-scissors-streamlit
+pip install -r requirements.txt
+
+streamlit run app.py
+
+
